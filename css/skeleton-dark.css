@@ -1,121 +1,309 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!-- Page Information
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <meta charset="utf-8">
-    <title>axlcrvz</title>
-    <meta name="description" content="https://littlelink.io">
-    <meta name="author" content="Seth Cottle">
-    <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="stylesheet" href="css/normalize.css">
-    <!-- Themes:
-            Auto:   css/skeleton-auto.css
-            Light:  css/skeleton-light.css
-            Dark:   css/skeleton-dark.css
-     -->
-    <link rel="stylesheet" href="css/skeleton-dark.css">
-    <!-- Brand Styles -->
-    <link rel="stylesheet" href="css/brands.css">
-    <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <link rel="icon" type="image/png" href="images/littlelink.png">
-  </head>
-  <body>
-    <!-- Primary Page Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-    <div class="container">
-      <div class="row">
-        <div class="column" style="margin-top: 10%">
-          <!-- Title -->
-          <h1 role="heading">DESBLOQUEA SPOTIFY:</h1>
-          <!-- Subtitle -->
-          <h3>Tu Primer Album Hecho Realiad con 'MEDUSA'</h3>
-          <!-- Short Bio -->
-          <p>Evita problemas legales y sube tus canciones a Spotify con la seguridad de tener los derechos comerciales sobre tus beats</p>
-          <!-- image product -->
-          <img src="image.jpg" alt="Image Description">
-          <script async src="https://js.stripe.com/v3/buy-button.js"></script>
-          <stripe-buy-button buy-button-id="buy_btn_1NovqQJ3H1jtaapQI4bptWo6" publishable-key="pk_live_x0lXpzGQHzJ05rZQk2k0d3UB"></stripe-buy-button>
-          <!-- Title -->
-          <h3>MEDUSA</h3>
-          <!-- Short Bio -->
-          <p>✅ 7 beats de trap</p>
-          <p>✅ Licencia comercial</p>
-          <p>✅ Sin marcas de agua</p>
-          <!-- Default LittleLink -->
-          <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button">
-            <img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora </a>
-          <br>
-          <!-- Title -->
-          <h1 role="heading">TODO LO QUE NECESITAS EN UN SOLO PAQUETE</h1>
-          <!-- Short Bio -->
-          <h3>Un Álbum Completo en Tus Manos:</h3>
-          <!-- Short Bio 2 -->
-          <p>Crea tu primer álbum con 7 beats de trap diseñados para brillar en la industria de la musica. Esta no es solo una colección de beats; es el lienzo en blanco para tu obra maestra.</p>
-          <!-- Short Bio -->
-          <h3>Entra a Spotify con Confianza:</h3>
-          <!-- Short Bio 2 -->
-          <p>¡Es hora de dar el salto a las plataformas de streaming! Con 'MEDUSA', obtienes una licencia para uso comercial que te permite subir tus canciones a Spotify y otras plataformas similares. Sin obstáculos legales, sin preocupaciones. Tu música estará lista para llegar a tus fans.</p>
-          <!-- Short Bio -->
-          <h3>Sonido Profesional de Alta Calidad:</h3>
-          <!-- Short Bio 2 -->
-          <p>Cada beat en este paquete ha sido creado con extensa atención a los detalles, desde las percusiones hasta las melodías. Todo pensado para reflejar tu creatividad y destacar tu talento.</p>
-          <!-- Default LittleLink -->
-          <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button">
-            <img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora </a>
-          <br>
-          <!-- Title -->
-          <h1 role="heading">SONIDO RESPALDADO POR LA COMUNIDAD</h1>
-          <!-- Short Bio 2 -->
-          <h3>Mas de 60k reproducciones y docenas de artistas satisfechos.</h3>
-          <!-- image testimonials -->
-          <img src="image.jpg" alt="Image Description">
-          <img src="image.jpg" alt="Image Description">
-          <img src="image.jpg" alt="Image Description">
-          <img src="image.jpg" alt="Image Description">
-          <img src="image.jpg" alt="Image Description">
-          <img src="image.jpg" alt="Image Description">
-          <!-- Title -->
-          <h1 role="heading">ESCUCHA EL POTENCIAL</h1>
-          <!-- Short Bio 2 -->
-          <h3>Algunas canciones hechas con mis beats:</h3>
-          <!-- spotify embeded -->
-          <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4v0XbpJbXsgPXzanIOo1yQ?utm_source=generator&theme=0" width="100%" height="552" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-          <!-- Title -->
-          <h1 role="heading">Lanzamiento en Spotify sin Obstáculos:</h1>
-          <!-- subTitle -->
-          <!-- Short Bio -->
-          <p>¡La oportunidad que estabas esperando! Con 'MEDUSA', obtendrás 7 beats de trap por el precio de uno. Por solo $499.49 MXN, tendrás en tus manos todo un arsenal musical para crear tu primer álbum completo. Cada beat ha sido cuidadosamente elaborado para capturar la esencia del género y, lo mejor de todo, no tienen tags de productor. Ademas, con una licencia para uso comercial incluida, podrás compartir tus canciones en plataformas como Spotify sin preocupaciones. ¡No dejes pasar esta oferta única para dar un salto gigante en tu carrera con 'MEDUSA'!</p>
-          <!-- image product -->
-          <img src="image.jpg" alt="Image Description">
-          <!-- Title -->
-          <h1 role="heading">MEDUSA</h1>
-          <!-- Short Bio -->
-          <h4>🚫 <s>MX$3,500.00</s>
-          </h4>
-          <h5>✅ MX$499.49</h5>
-          <!-- Default LittleLink -->
-          <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button">
-            <img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora </a>
-          <br>
-          <!-- Title -->
-          <h3>¡Compra Ahora y Lleva Más Que Beats! Descubre lo que Obtienes con 'MEDUSA'</h3>
-          <!-- Short Bio -->
-          <p>✅ 7 beats por el precio de uno. <s>MX$3,500.00</s> MX$499.49 </p>
-          <p>✅ Licencia para que subas tus canciones a todas las plataformas de streaming.</p>
-          <p>✅ Sin tags de productor para un sonido mas limpio y profesional.</p>
-          <p>✅ Politica de devolucion garantizada</p>
-          <!-- Default LittleLink -->
-          <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button">
-            <img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora </a>
-          <br>
-          <!-- privacy policy -->
-          <p>
-            <a href="privacy.html">Privacy Policy</a>
-        </div>
-      </div>
+/*
+* littlelink V1
+* https://littlelink.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/21/2019
+*
+* Built using:
+*
+* Skeleton V2.0.4
+* Copyright 2014, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 12/29/2014
+*/
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Grid
+- Base Styles
+- Typography
+- Links
+- Code
+- Spacing
+- Utilities
+*
+* You'll find the button css in css/brands.css.
+*
+*/
+
+/* Grid
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.container-left {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  text-align: left;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.column {
+  position: center;
+  width: 100%;
+  float: center;
+  box-sizing: border-box;
+}
+
+/* For devices larger than 400px */
+@media (min-width: 400px) {
+  .container {
+    width: 85%;
+    padding: 0;
+  }
+}
+
+/* For devices larger than 550px */
+@media (min-width: 550px) {
+  .container {
+    width: 80%;
+  }
+  .column,
+  .columns {
+    margin-left: 0;
+  }
+  .column:first-child,
+  .columns:first-child {
+    margin-left: 0;
+  }
+}
+
+/* Base Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* NOTE
+html is set to 62.5% so that all the REM measurements throughout Skeleton
+are based on 10px sizing. So basically 1.5rem = 15px :) */
+
+.rounded-box {
+  background-color: #ffffff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.rounded-box-2 {
+  background-color: #131312;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+html {
+  font-size: 100%;
+  background: #ffffff
+}
+body {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+p {
+  color: BLACK
+}
+h3 {
+  color: #000000
+}
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+h4 {  
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-weight: 800;
+  color: #E50914
+}
+h4 {
+    font-size: 26px;
+  line-height: 32px;
+  letter-spacing: 0;
+  color: #E50914
+}
+
+h5 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-weight: 800;
+  color: #1DB954
+}
+h5 {
+    font-size: 26px;
+  line-height: 32px;
+  letter-spacing: 0;
+  color: #1DB954
+}
+h1 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-weight: 800;
+  color: #301934
+}
+h1 {
+  font-size: 32px;
+  line-height: 32px;
+  letter-spacing: 0;
+  color: #000000
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  h1 {
+    font-size: 48px;
+    line-height: 96px;
+  }
+
+p {
+  margin-top: 0;
+  color: #000000
+}
+
+/* Links
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+a {
+  color: #4899F7;
+}
+a:hover {
+  color: #7AB8FF;
+}
+
+/* Code
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+code {
+  padding: 0.2rem 0.5rem;
+  margin: 0 0.2rem;
+  font-size: 90%;
+  white-space: nowrap;
+  background: #f1f1f1;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+}
+pre > code {
+  display: block;
+  padding: 1rem 1.5rem;
+  white-space: pre;
+}
+
+/* Spacing
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+button,
+.button {
+  margin-bottom: 1rem;
+}
+input,
+textarea,
+select,
+fieldset {
+  margin-bottom: 1.5rem;
+}
+pre,
+blockquote,
+dl,
+figure,
+p,
+ol {
+  margin-bottom: 2.5rem;
+}
+
+/* Utilities
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.u-full-width {
+  width: 100%;
+  box-sizing: border-box;
+}
+.u-max-full-width {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.u-pull-right {
+  float: right;
+}
+.u-pull-left {
+  float: left;
+}
+
+/* Misc
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+hr {
+  margin-top: 3rem;
+  margin-bottom: 3.5rem;
+  border-width: 0;
+  border-top: 1px solid #e1e1e1;
+}
+/* Radius values:
+
+10%-40%: Squircles
+50% (default): True circle
+*/
+.avatar {
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+  background-position: center;
+  border-radius: 50%;
+}
+
+/* open-sans-regular - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+/* open-sans-600 - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-600.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-600.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-600.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-600.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+/* open-sans-700 - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-700.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-700.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-700.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+/* open-sans-800 - vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
