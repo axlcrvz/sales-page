@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <!-- Page Information
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>axlcrvz</title>
+  <meta name="description" content="https://littlelink.io">
+  <meta name="author" content="Seth Cottle">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+
+    <!-- Themes:
+            Auto:   css/skeleton-auto.css
+            Light:  css/skeleton-light.css
+            Dark:   css/skeleton-dark.css
+     -->
+    <link rel="stylesheet" href="css/skeleton-dark.css">
+
+    <!-- Brand Styles -->
+    <link rel="stylesheet" href="css/brands.css">
+
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/littlelink.png">
+
+</head>
+
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="container">
+    <div class="row">
+      <div class="column" style="margin-top: 10%">
+
+        
+        <!-- Title -->
+        
+        <h1 role="heading">DESBLOQUEA SPOTIFY:</h1>
+
+        <!-- Subtitle -->
+        <h3>Tu Primer Album Hecho Realiad con 'MEDUSA'</h3>
+        
+        <!-- Short Bio -->
+
+  <p>Evita problemas legales y sube tus canciones a Spotify con la seguridad de tener los derechos comerciales sobre tus beats</p>
+        
+        <!-- image product -->
+        <img src="image.jpg" alt="Image Description">
+        <script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1NovqQJ3H1jtaapQI4bptWo6"
+  publishable-key="pk_live_x0lXpzGQHzJ05rZQk2k0d3UB"
+>
+</stripe-buy-button>
+        
+          <!-- Title -->
+        <h3>MEDUSA</h3>
+
+        <!-- Short Bio -->
+       <p>✅ 7 beats de trap</p>
+       <p>✅ Licencia comercial</p>
+       <p>✅ Sin marcas de agua</p>
+       
+
+        <!-- Default LittleLink -->
+        <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora</a><br>
+          
+  
+   <!-- Title -->
+        <h1 role="heading">TODO LO QUE NECESITAS EN UN SOLO PAQUETE</h1>
+
+        <!-- Short Bio -->
+        <h3>Un Álbum Completo en Tus Manos:</h3>
+        
+         
+        <!-- Short Bio 2 -->
+        <p>Crea tu primer álbum con 7 beats de trap diseñados para brillar en la industria de la musica. Esta no es solo una colección de beats; es el lienzo en blanco para tu obra maestra.</p>
+       
+        
+          <!-- Short Bio -->
+        <h3>Entra a Spotify con Confianza:</h3>
+          <!-- Short Bio 2 -->
+        <p>¡Es hora de dar el salto a las plataformas de streaming! Con 'MEDUSA', obtienes una licencia para uso comercial que te permite subir tus canciones a Spotify y otras plataformas similares. Sin obstáculos legales, sin preocupaciones. Tu música estará lista para llegar a tus fans.</p>
+  
+          <!-- Short Bio -->
+        <h3>Sonido Profesional de Alta Calidad:</h3>
+          <!-- Short Bio 2 -->
+        <p>Cada beat en este paquete ha sido creado con extensa atención a los detalles, desde las percusiones hasta las melodías. Todo pensado para reflejar tu creatividad y destacar tu talento.</p>
+          
+  
+          <!-- Default LittleLink -->
+        <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora</a><br>
+          
+  
+     <!-- Title -->
+        <h1 role="heading">SONIDO RESPALDADO POR LA COMUNIDAD</h1>
+          <!-- Short Bio 2 -->
+        <h3>Mas de 60k reproducciones y docenas de artistas satisfechos.</h3>
+  
+            <!-- image testimonials -->
+          <img src="image.jpg" alt="Image Description">
+            <img src="image.jpg" alt="Image Description">
+            <img src="image.jpg" alt="Image Description">
+            <img src="image.jpg" alt="Image Description">
+            <img src="image.jpg" alt="Image Description">
+            <img src="image.jpg" alt="Image Description">
+  
+     <!-- Title -->
+        <h1 role="heading">ESCUCHA EL POTENCIAL</h1>
+          <!-- Short Bio 2 -->
+        <h3>Algunas canciones hechas con mis beats:</h3>
+  
+        <!-- spotify embeded -->
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4v0XbpJbXsgPXzanIOo1yQ?utm_source=generator&theme=0" width="100%" height="552" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  
+     <!-- Title -->
+        <h1 role="heading">Lanzamiento en Spotify sin Obstáculos:</h1>
+     <!-- subTitle -->
+
+          <!-- Short Bio -->
+        <p>¡La oportunidad que estabas esperando! Con 'MEDUSA', obtendrás 7 beats de trap por el precio de uno. Por solo $499.49 MXN, tendrás en tus manos todo un arsenal musical para crear tu primer álbum completo. Cada beat ha sido cuidadosamente elaborado para capturar la esencia del género y, lo mejor de todo, no tienen tags de productor. Ademas, con una licencia para uso comercial incluida, podrás compartir tus canciones en plataformas como Spotify sin preocupaciones. ¡No dejes pasar esta oferta única para dar un salto gigante en tu carrera con 'MEDUSA'!</p>
+  
+          <!-- image product -->
+        <img src="image.jpg" alt="Image Description">
+        
+          <!-- Title -->
+        <h1 role="heading">MEDUSA</h1>
+
+        <!-- Short Bio -->
+        <h4>🚫 <s>MX$3,500.00</s></h4>
+       <h5>✅ MX$499.49</h5>
+
+          <!-- Default LittleLink -->
+        <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora</a><br>
+
+          <!-- Title -->
+        <h3>¡Compra Ahora y Lleva Más Que Beats! Descubre lo que Obtienes con 'MEDUSA'</h3>
+
+        <!-- Short Bio -->
+        <p>✅ 7 beats por el precio de uno. <s>MX$3,500.00</s> MX$499.49</p>
+       <p>✅ Licencia para que subas tus canciones a todas las plataformas de streaming.</p>
+       <p>✅ Sin tags de productor para un sonido mas limpio y profesional.</p>
+       <p>✅ Politica de devolucion garantizada</p>
+        
+    <!-- Default LittleLink -->
+        <a class="button button-default" href="https://buy.stripe.com/4gwcOj25y8tc1JC8wz" target="_blank" rel="noopener" role="button"><img class="icon" src="images/icons/littlelink.svg" alt="">Comprar Ahora</a><br>
+
+        
+
+              <!-- privacy policy -->
+        <p><a href="privacy.html">Privacy Policy</a>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+
+</html>
