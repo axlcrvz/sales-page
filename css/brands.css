@@ -37,10 +37,10 @@ button {
   text-align: center;
   vertical-align: middle;
   font-size: 18px;
-  width: 100%;
+  width: 300px;
   font-weight: 700;
   line-height: 20px;
-  padding: 12px 12px 12px 12px;
+  padding: 14px 12px 12px 12px;
   letter-spacing: 0.1px;
   white-space: wrap;
   outline: none;
@@ -83,6 +83,14 @@ button:hover,
   background-color: #2457F5;
 }
 .button.button-default:hover,
+.button.button-default:focus {
+  filter: brightness(90%);
+}
+.button.button-medusa {
+  color: #ffffff;
+  background-color: #b19cd9;
+}
+.button.button-medusa:hover,
 .button.button-default:focus {
   filter: brightness(90%);
 }
