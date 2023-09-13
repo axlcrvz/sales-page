@@ -76,7 +76,15 @@ button:hover,
 
 /* Brand Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
+/* go back button */
+.button.button-back {
+  color: #ffffff;
+  background-color: #404040;
+}
+.button.button-back:hover,
+.button.button-back:focus {
+  filter: brightness(90%);
+  
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
