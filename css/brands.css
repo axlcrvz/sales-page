@@ -84,6 +84,7 @@ button:hover,
 .button.button-back:hover,
 .button.button-back:focus {
   filter: brightness(90%);
+}
   
 /* Default (this is great for your own brand color!) */
 .button.button-default {
